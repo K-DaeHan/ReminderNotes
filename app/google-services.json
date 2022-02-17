@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296745737882",
+    "firebase_url": "https://remindernotes-9373e-default-rtdb.firebaseio.com",
+    "project_id": "remindernotes-9373e",
+    "storage_bucket": "remindernotes-9373e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296745737882:android:55e0bca8239bf9e0e68923",
+        "android_client_info": {
+          "package_name": "com.android.remindernotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296745737882-f8lm2rg8evb62dcnj3gli6b5ol3lt414.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUC93O6b-6UC_Tlf05mZpJgpHAqcHpR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296745737882-f8lm2rg8evb62dcnj3gli6b5ol3lt414.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

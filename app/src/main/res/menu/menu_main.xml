@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/menuGroup">
+        <item
+            android:id="@+id/last_add_sorting"
+            android:title="마지막 추가 순서 정렬" />
+
+        <item
+            android:id="@+id/asc_sorting"
+            android:title="디데이 정렬(오름 차순)" />
+
+        <item
+            android:id="@+id/desc_sorting"
+            android:title="디데이 정렬(내림 차순)" />
+    </group>
+</menu>
